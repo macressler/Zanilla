@@ -4,12 +4,6 @@ Overview
 Zanilla!
 
 Famous icon set now made iOS 8 supportive by you. Just add a request in the issues and the community will graciously craft them!
- 
-Out-of-the-way transparent WinterBoard theme that lets you really
-showcase your wallpaper. Glasklart is swedish, it means "clear as
-glass".
-
-Now includes **6400+** icons which have been graciously crafted by the community.
 
 Zanilla is only compatible with iOS 7+ and iOS 8 + and uses the Winterboard-Plugin [IconBundles](http://cydia.saurik.com/package/com.codethemed.iconbundles/) by Nick Frey.
 
