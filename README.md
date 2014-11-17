@@ -14,6 +14,8 @@ Willing to contribute?
 Add an icon request by using "[new issue](https://github.com/48296/Zanilla/issues/new)" with iconbundle and original icon.
 Do you have a custom icon to include in set? add it in "[new issue](https://github.com/48296/Zanilla/issues/new)" with icon bundle and zanilla icon
 
+using the complete iconset made for iOS8; add the repo and install the theme ;http://cydia.myrepospace.com/Zanilla4iOS8github/
+
 Contributors
 =====================================================================
 
