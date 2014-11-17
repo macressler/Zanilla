@@ -2,6 +2,7 @@ Overview
 =====================================================================
 
 Zanilla!
+Now has Iphone 5,5c,5s,6,6+,ipad,ipad mini,ipad retina,ipad retina mini support!
 <img src="http://moreinfo.thebigboss.org/moreinfo/zanillatheme0.jpg" width="430" height="120" align="right" />
 
 Famous icon set now made iOS 8 supportive by you. Just add a request in the issues and the community will graciously craft them!
