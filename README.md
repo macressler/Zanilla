@@ -10,8 +10,8 @@ Zanilla is only compatible with iOS 7+ and iOS 8 + and uses the Winterboard-Plug
 Adding icons requested in [this tread on reddit](http://www.reddit.com/r/iOSthemes/comments/2mgupd/accepting_icon_requests_for_zanilla_theme/)
 
 Willing to contribute? 
-Add an icon request by using "new issue" with iconbundle and original icon.
-Do you have a custom icon to include in set? add it in "new issue" with icon bundle and zanilla icon
+Add an icon request by using "[new issue](https://github.com/48296/Zanilla/issues/new)" with iconbundle and original icon.
+Do you have a custom icon to include in set? add it in "[new issue](https://github.com/48296/Zanilla/issues/new)" with icon bundle and zanilla icon
 
 Contributors
 =====================================================================
@@ -21,7 +21,7 @@ How You Can Help Make Zanilla More Awesome
 =====================================================================
 Help us making this theme one of the most complete themes on the INTERWEBZ.
 Make this github a centralized request portal for zanilla.
-If you have a homemade zanilla icon please add it in a new issue by the name of <iconbundle>@2x.png
+If you have a homemade zanilla icon please add it in a new issue by the name of < iconbundle > @2x.png
   
 A Word About The Artwork
 =====================================================================
