@@ -2,6 +2,7 @@ Overview
 =====================================================================
 
 Zanilla!
+<img src="http://moreinfo.thebigboss.org/moreinfo/zanillatheme0.jpg" width="430" height="120" align="right" />
 
 Famous icon set now made iOS 8 supportive by you. Just add a request in the issues and the community will graciously craft them!
 
